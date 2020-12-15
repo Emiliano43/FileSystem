@@ -1,0 +1,1 @@
+[{"CLASS_NAME":"com.company.Circle","VALUE":{"radius":4.0}},{"CLASS_NAME":"com.company.Square","VALUE":{"side":5.0}},{"CLASS_NAME":"com.company.Triangle","VALUE":{"side1":4.0,"side2":5.0,"side3":6.0}},{"CLASS_NAME":"com.company.Rectangle","VALUE":{"side1":3.0,"side2":4.0}}]
